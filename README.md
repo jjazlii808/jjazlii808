@@ -1,4 +1,4 @@
-Passionate about Web Development & Software Engineering. Exploring open-source projects and working on personal projects. Always eager to learn and grow in tech.
+I'm into web development and software engineering, and I enjoy building personal projects and diving into open-source stuff. Always learning and looking for ways to get better at what I do in tech.
 
 * 🌍  I'm based in Kuala Lumpur
 * 🧠  I'm learning Javascript, React and Node.js
